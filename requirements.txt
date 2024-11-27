@@ -1,0 +1,4 @@
+# PyGithub>=2.5.0
+PyGithub
+# anytree>=2.12.1
+anytree
